@@ -12,3 +12,15 @@
 .navbar-default .navbar-brand {
     color: #FFF;
 }
+
+.my-background {
+  /* The image used */
+  background-image: url("../img/snow_rockies.jpg");
+
+  /* Add the blur effect */
+  /* filter: blur(8px); */
+  /* -webkit-filter: blur(8px); */
+
+  /* Full height */
+  height: 100%;
+}
