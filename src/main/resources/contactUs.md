@@ -21,5 +21,7 @@ BUG2
     ATTN: Correspondence Team
     PO Box 5029
     Wallingford, CT 06492</h2>
-
+</body>
 </html>
+
+<!--contact details page-->
