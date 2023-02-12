@@ -10,18 +10,15 @@
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
   <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
 </head>
-<body>
 
-<div class="container-fluid">
-	<div class="row">
-		<div class="col-md-4">
-			<h2>
-				Branching
-			</h2>
-			<p>
-				Create a local Branch <br>
-				git branch release1<br>
-				git branch release2<br>
+
+				## Branching
+
+				Create a local Branch 
+
+				git branch release1
+
+				git branch release2
 
 				Switch to a branch
 				git checkout release1
@@ -32,33 +29,4 @@
 				Add the files you have worked upon
 				Git add . (it will take care of ignore files)
 
-			</p>
-			<p>
 				<a class="btn" href="#">View details »</a>
-			</p>
-		</div>
-		<div class="col-md-4">
-			<h2>
-				Merging
-			</h2>
-			<p>
-				.
-			</p>
-			<p>
-				<a class="btn" href="#">View details »</a>
-			</p>
-		</div>
-		<div class="col-md-4">
-			<h2>
-				Merge Conflict Resolution
-			</h2>
-			<p>
-			 Donec sed odio dui.
-			</p>
-			<p>
-				<a class="btn" href="#">View details »</a>
-			</p>
-		</div>
-	</div>
-</div>
-</body>
