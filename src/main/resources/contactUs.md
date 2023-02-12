@@ -2,7 +2,7 @@
 <html lang="en">
 
 <head>
-  <title>About Us</title>
+  <title>Contact Us</title>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
@@ -10,8 +10,16 @@
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
   <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
 </head>
-<body>
-<h1>This is about page Welcome to Branch Practise</h1>
-<h2>Barclays moves, lends, invests and protects money for 48 million customers and clients worldwide.</h2>
-</body>
+
+BUG2
+
+### Please contact us at following address
+
+## Mailing addresses
+    Customer Service
+    Verizon Wireless
+    ATTN: Correspondence Team
+    PO Box 5029
+    Wallingford, CT 06492</h2>
+
 </html>
