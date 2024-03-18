@@ -14,6 +14,7 @@
 ### Please contact us at following address
 
 ## Mailing addresses
+
     Customer Service
     Verizon Wireless
     ATTN: Correspondence Team
