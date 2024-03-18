@@ -16,15 +16,17 @@
 
 Create a local Branch 
 
+```shell
 git branch release1
-
 git branch release2
+```
 
-Switch to a branch
+## Switch to a branch
+```shell
 git checkout release1
-
+```
 After committing changes, if the branch is to be pushed to the remote repository
-git push origin release1
+`git push origin release1`
 
 Add the files you have worked upon
 Git add . (it will take care of ignore files)
