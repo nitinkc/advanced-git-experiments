@@ -11,6 +11,8 @@
   <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
 </head>
 
+<body>
+
 ### Please contact us at following address
 
 ## Mailing addresses
@@ -23,6 +25,7 @@ Wallingford, CT 06492
 
 </h2>
 </body>
+
 </html>
 
 <!--contact details page-->
