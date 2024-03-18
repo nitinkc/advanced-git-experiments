@@ -13,6 +13,8 @@
 
 
 ## Branching
+This is the change from Madhur
+I am checking merge conflicts
 
 Create a local Branch 
 
@@ -34,4 +36,6 @@ Add the files you have worked upon
 
 Git add . (it will take care of ignore files)
 
+<a class="btn" href="#">View details »</a>
+<input button= submitMadhur /input>
 <a class="btn" href="#">View details »</a>
