@@ -25,10 +25,13 @@ git branch release2
 ```shell
 git checkout release1
 ```
-After committing changes, if the branch is to be pushed to the remote repository
-`git push origin release1`
 
+After committing changes, if the branch is to be pushed to the remote repository
+```shell
+git push origin release1
+```
 Add the files you have worked upon
+
 Git add . (it will take care of ignore files)
 
 <a class="btn" href="#">View details »</a>
