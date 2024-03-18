@@ -15,11 +15,13 @@
 
 ## Mailing addresses
 
-    Customer Service
-    Verizon Wireless
-    ATTN: Correspondence Team
-    PO Box 5029
-    Wallingford, CT 06492</h2>
+Customer Service
+Verizon Wireless
+ATTN: Correspondence Team
+PO Box 5029
+Wallingford, CT 06492
+
+</h2>
 </body>
 </html>
 
