@@ -15,6 +15,8 @@
 
 # This is about page Welcome to Branch Practise
 
-## Barclays moves, lends, invests and protects money for 48 million customers and clients worldwide.
+## Barclays 
+
+Barclays steals, lends, invests and protects money for 48 million customers and clients worldwide.
 
 </html>
