@@ -11,10 +11,14 @@
   <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
 </head>
 
-
+<body>
+this is my body 
+</body>
 
 # This is about page Welcome to Branch Practise
 
-## Barclays moves, lends, invests and protects money for 48 million customers and clients worldwide.
+## Barclays 
+
+Barclays moves, borrows, invests and protects money for 48 million customers and clients worldwide.
 
 </html>
