@@ -12,24 +12,27 @@
 </head>
 
 
-				## Branching
-            This is the change from Madhur
-            I am checking merge conflicts
+## Branching
+This is the change from Madhur
+I am checking merge conflicts
 
-				Create a local Branch 
+Create a local Branch 
 
-				git branch release1
+```shell
+git branch release1
+git branch release2
+```
 
-				git branch release2
+## Switch to a branch
+```shell
+git checkout release1
+```
+After committing changes, if the branch is to be pushed to the remote repository
+`git push origin release1`
 
-				Switch to a branch
-				git checkout release1
+Add the files you have worked upon
+Git add . (it will take care of ignore files)
 
-				After committing changes, if the branch is to be pushed to the remote repository
-				git push origin release1
-
-				Add the files you have worked upon
-				Git add . (it will take care of ignore files)
-                <input button= submitMadhur /input>
-				<a class="btn" href="#">View details »</a>
-
+<a class="btn" href="#">View details »</a>
+<input button= submitMadhur /input>
+<a class="btn" href="#">View details »</a>
