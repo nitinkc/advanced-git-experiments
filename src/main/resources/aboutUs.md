@@ -12,7 +12,6 @@
 </head>
 
 
-
 # This is about page Welcome to Branch Practise
 
 ## Barclays 
