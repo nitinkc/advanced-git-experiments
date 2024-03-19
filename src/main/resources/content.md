@@ -16,7 +16,7 @@
 This is the change from Madhur
 I am checking merge conflicts
 
-Create a local Branch 
+Create a local Branch, local 
 
 ```shell
 git branch release1
@@ -33,6 +33,7 @@ After committing changes, if the branch is to be pushed to the remote repository
 git push origin release1
 ```
 Add the files you have worked upon
+This is the directory which I made the changes
 
 `git add .` (it will take care of ignore files)
 

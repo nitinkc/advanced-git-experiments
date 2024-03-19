@@ -18,6 +18,9 @@
     </li>
     <li>
       <a href="#">Profile</a>
+
+    <li>
+      <a href="#">PageTitle</a>
     </li>
     <li class="disabled">
       <a href="#">Messages</a>
