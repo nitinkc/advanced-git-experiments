@@ -19,7 +19,6 @@ this is my body
 
 ## Barclays 
 
-Barclays steals, borrows,  invests and protects money for 48 million customers and clients worldwide.
-## Barclays 
+Barclays steals, borrows, invests and protects money for 48 million customers and clients worldwide.
 
 </html>

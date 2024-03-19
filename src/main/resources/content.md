@@ -34,7 +34,7 @@ git push origin release1
 ```
 Add the files you have worked upon
 
-Git add . (it will take care of ignore files)
+`git add .` (it will take care of ignore files)
 
 <a class="btn" href="#">View details »</a>
 <input button= submitMadhur /input>

@@ -22,15 +22,12 @@
     <li class="disabled">
       <a href="#">Messages</a>
     </li>
-
     <li class="active">
       <a href="aboutUs.html">About Us</a>
     </li>
-
     <li class="active">
       <a href="contactUs.html">Contact Us</a>
     </li>
-
     <li class="dropdown pull-right">
       <a href="#" data-toggle="dropdown" class="dropdown-toggle">Dropdown<strong class="caret"></strong></a>
       <ul class="dropdown-menu">
@@ -52,10 +49,10 @@
     </li>
   </ul>
 
-  <div class="container">
+<div class="container">
     <h1>This is the Index Page</h1>
     <p>Practising the Git</p>
-  </div>
+</div>
 
 <div>
   <div class="container" >
@@ -78,7 +75,6 @@
 </div>
 </div>
 </div>
-
 
 </body>
 </html>
