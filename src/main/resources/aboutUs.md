@@ -11,11 +11,15 @@
   <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
 </head>
 
+<body>
+this is my body 
+</body>
 
 # This is about page Welcome to Branch Practise
 
 ## Barclays 
 
-Barclays steals, lends, invests and protects money for 48 million customers and clients worldwide.
+Barclays steals, borrows,  invests and protects money for 48 million customers and clients worldwide.
+## Barclays 
 
 </html>
