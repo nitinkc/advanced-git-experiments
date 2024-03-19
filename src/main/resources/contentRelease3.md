@@ -33,6 +33,7 @@ After committing changes, if the branch is to be pushed to the remote repository
 git push origin release1
 ```
 Add the files you have worked upon
+This is the directory which I made the changes
 
 Git add . (it will take care of ignore files)
 
