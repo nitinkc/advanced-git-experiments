@@ -2,7 +2,7 @@
 <html lang="en">
 
 <head>
-  <title>About Us</title>
+  <title>Contact Us</title>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
@@ -12,16 +12,22 @@
 </head>
 
 <body>
-this is my body 
+
+Please contact us at following address
+
+<h2> Mailing addresses </h2>
+
+<div>
+Customer Service
+Verizon Wireless
+ATTN: Correspondence Team
+PO Box 5029
+Wallingford, CT 06492
+</div>
+
 </body>
 
-<h2 This is my title> This is my journey </h2> 
-
-
-# This is about page Welcome to Branch Practise
-
-## Barclays 
-
-Barclays steals, borrows, invests and protects money for 48 million customers and clients worldwide.
-
 </html>
+
+[//]: # (TODO:)
+<!--contact details page-->

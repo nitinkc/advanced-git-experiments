@@ -18,7 +18,6 @@
     </li>
     <li>
       <a href="#">Profile</a>
-
     <li>
       <a href="#">PageTitle</a>
     </li>
@@ -26,10 +25,10 @@
       <a href="#">Messages</a>
     </li>
     <li class="active">
-      <a href="aboutUs.html">About Us</a>
+      <a href="about.html">About Us</a>
     </li>
     <li class="active">
-      <a href="contactUs.html">Contact Us</a>
+      <a href="contact.html">Contact Us</a>
     </li>
     <li class="dropdown pull-right">
       <a href="#" data-toggle="dropdown" class="dropdown-toggle">Dropdown<strong class="caret"></strong></a>

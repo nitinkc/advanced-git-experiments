@@ -14,6 +14,7 @@
 
 ## Branching
 This is the change from Madhur
+
 I am checking merge conflicts
 
 Create a local Branch, local 
@@ -38,5 +39,6 @@ This is the directory which I made the changes
 `git add .` (it will take care of ignore files)
 
 <a class="btn" href="#">View details »</a>
+
 <input button= submitMadhur /input>
 <a class="btn" href="#">View details »</a>
