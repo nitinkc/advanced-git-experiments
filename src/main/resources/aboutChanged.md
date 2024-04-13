@@ -12,11 +12,14 @@
 </head>
 
 <body>
-this is my body 
+This is my body 
 </body>
 
-<h2 This is my title> This is my journey </h2> 
+<h2> 
+This is my title
+This is my journey 
 
+</h2> 
 
 # This is about page Welcome to Branch Practise
 
