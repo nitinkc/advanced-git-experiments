@@ -39,6 +39,9 @@
         <li>
           <a href="#">Another action</a>
         </li>
+            <li>
+          <a href="#">Single action</a>
+        </li>
         <li>
           <a href="#">Something else here</a>
         </li>
