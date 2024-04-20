@@ -39,7 +39,7 @@
         <li>
           <a href="#">Another action</a>
         </li>
-            <li>
+        <li>
           <a href="#">Single action</a>
         </li>
         <li>
@@ -54,32 +54,41 @@
     </li>
   </ul>
 
-<div class="container">
+  <div class="container">
     <h1>This is the Index Page</h1>
     <p>Practising the Git</p>
-</div>
+  </div>
 
-<div>
-  <div class="container" >
-    <div class="container-fluid">
-      <div class="row">
-        <div class="col-md-4">
-          <form role="form">
-            <div class="form-group">
-              <label for="exampleInputEmail1"> Email address </label>
-              <input type="email" class="form-control" id="exampleInputEmail1" />
-            </div>
-            <div class="form-group">
-              <label for="exampleInputPassword1"> Password </label>
-              <input type="password" class="form-control" id="exampleInputPassword1" />
-              <button type="submit" class="btn btn-default"> Submit </button>
-            </div>
-          </form>
+  <div>
+    <div class="container">
+      <div class="container-fluid">
+        <div class="row">
+          <div class="col-md-4">
+            <form role="form">
+              <div class="form-group">
+                <label for="exampleInputEmail1"> Email address </label>
+                <input type="email" class="form-control" id="exampleInputEmail1" />
+              </div>
+              <div class="form-group">
+                <label for="exampleInputPassword1"> Password </label>
+                <input type="password" class="form-control" id="exampleInputPassword1" />
+                <!-- HTML code -->
+                <button type="button" class="btn btn-default" onclick="navigateToSuccessfulPage()">Submit</button>
+              </div>
+            </form>
+          </div>
         </div>
+      </div>
     </div>
-</div>
-</div>
-</div>
+  </div>
+
+  <script>
+    function navigateToSuccessfulPage() {
+      // Redirect to the successful.html page
+      window.location.href = 'successful.html';
+    }
+  </script>
 
 </body>
+
 </html>
